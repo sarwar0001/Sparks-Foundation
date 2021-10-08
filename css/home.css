@@ -1,0 +1,18 @@
+.backg_img{
+    background-image:url("/img/body_img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:640px;
+}
+a:hover{
+    transform:scale(1.1);
+    transition-duration:2.5s;
+}
+img:hover{
+    transform:scale(1.1);
+    transition-duration:2.5s;
+}

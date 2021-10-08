@@ -1,0 +1,12 @@
+a:hover{
+    transform:scale(1.1);
+    transition-duration:2.5s;
+}
+img:hover{
+    transform:scale(1.1);
+    transition-duration:2.5s;
+}
+.img{
+    width:200px;
+    height:200px;
+}
